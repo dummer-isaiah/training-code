@@ -1,11 +1,11 @@
-#readme
+# readme
 
 the offical training code
 
-##maintainer
+## maintainer
 
 - isaiah dummer
 
-##license
+## license
 
-[MIT License]()
+[MIT License](https://github.com/dummer-isaiah/training-code/blob/master/LICENSE)
